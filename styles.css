@@ -1,0 +1,116 @@
+@charset "ISO-8859-1";
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px;
+  padding: 15px;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 15px;
+  font-size:18px;
+}
+.header{
+  background-color: black;
+  border-radius: 8px;
+}
+img{
+  border-radius: 8px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+a:hover {
+
+  color:#77D970;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.list1,.list{
+  margin-top: 15px;
+
+}
+.list1{
+  margin-left: 150px;
+}
+table{
+  cell-spacing:10px;
+  text-align: center;
+
+}
+
+h2{
+  color:white;
+  font-weight: 10px;
+  font-size: 30px;
+}
+
+.form,.form2{
+  padding: 20px;
+  background-color: #B5EAEA;
+  height: 530px;
+  width: 400px;
+  border-radius: 8px;
+  color: #193498;
+  margin-left: 500px;
+  font-family: 'Nunito', sans-serif;
+}
+.form2{
+	padding: 20px;
+  background-color: #B5EAEA;
+  height: 530px;
+  width: 500px;
+  border-radius: 8px;
+  color: #193498;
+  margin-left: 500px;
+  font-family: 'Nunito', sans-serif;
+}
+.submit,.input2{
+font-weight: bold;
+background-color: #E02401;
+color: white;
+padding: 10px;
+border-radius: 8px;
+width: 120px;
+
+}
+
+input{
+  border-radius: 5px;
+  font-family: 'Nunito', sans-serif;
+  width: 380px;
+  border: 1px solid white;
+}
+.input2{
+	font-weight: bold;
+background-color: #E02401;
+color: white;
+padding: 10px;
+border-radius: 8px;
+width: 120px;
+text-align:center;	
+font-family: 'Nunito', sans-serif;
+}
+p{
+  font-weight: 5px;
+  color:black;
+
+  border-radius: 8px;
+  padding: 10px;
+  
+}
+
+body{
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 40px;
+}
